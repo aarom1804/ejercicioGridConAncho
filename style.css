@@ -11969,4 +11969,19 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.bg-purple {
+  background-color: #6f42c1 !important;
+}
+
+.bg-purple-light {
+  background-color: #c5b3e6 !important;
+}
+
+.bg-pink {
+  background-color: #d63384 !important;
+}
+
+.bg-intense-red {
+  background-color: #842029 !important;
 }/*# sourceMappingURL=style.css.map */
